@@ -1,4 +1,4 @@
-Connects to [Azure OpenAI Completions API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference#completions/) from Ballerina.
+Connects to [Azure OpenAI Completions API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference/) from Ballerina.
 
 ### Package overview
 
