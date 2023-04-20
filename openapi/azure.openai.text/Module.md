@@ -1,5 +1,5 @@
 ## Overview
-This is a generated connector from [Azure OpenAI Completions API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference#completions/) OpenAPI specification.
+This is a generated connector from [Azure OpenAI Completions API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference/) OpenAPI specification.
 
 The Azure  OpenAI Service REST API Completions Endpoint will generate one or more predicted completions based on a provided prompt. The service can also return the probabilities of alternative tokens at each position.
 
