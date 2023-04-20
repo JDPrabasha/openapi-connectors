@@ -1,4 +1,4 @@
-Connects to [Azure OpenAI Chat Completions API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference#chat-completions/) from Ballerina.
+Connects to [Azure OpenAI Chat Completions API](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference/) from Ballerina.
 
 ### Package overview
 
